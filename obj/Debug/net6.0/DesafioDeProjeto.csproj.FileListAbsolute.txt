@@ -1,0 +1,15 @@
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/bin/Debug/net6.0/DesafioDeProjeto
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/bin/Debug/net6.0/DesafioDeProjeto.deps.json
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/bin/Debug/net6.0/DesafioDeProjeto.runtimeconfig.json
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/bin/Debug/net6.0/DesafioDeProjeto.dll
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/bin/Debug/net6.0/DesafioDeProjeto.pdb
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.csproj.AssemblyReference.cache
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.AssemblyInfoInputs.cache
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.AssemblyInfo.cs
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.csproj.CoreCompileInputs.cache
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.dll
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/refint/DesafioDeProjeto.dll
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.pdb
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/DesafioDeProjeto.genruntimeconfig.cache
+/home/washingtonbds/Documentos/projetos/GitHub/DesafioDeProjeto/obj/Debug/net6.0/ref/DesafioDeProjeto.dll
